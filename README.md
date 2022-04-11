@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m Hong Guo (@hg1121)
+- 👀 I’m interested in web development and machine learning algorithms
+- 🌱 I’m currently studying computer science at ASU
+- 📫 How to reach me: guohong770@gmail.com
+
 
 <!--
 **hg1121/hg1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
