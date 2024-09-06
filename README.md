@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hong Guo (@hg1121)
 - 👀 I’m interested in web development and machine learning algorithms
-- 🌱 I’m currently studying computer science at ASU
+- 🌱 I’m currently studying computer science at Northeastern University
 - 📫 How to reach me: guohong770@gmail.com
 
 
