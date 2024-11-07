@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hong Guo (@hg1121)
 - 👀 I’m interested in mobile / web development and machine learning algorithms
 - 🌱 I’m currently pursuing a master's degree in computer science at Northeastern University
-- 🔭 Skills: Python, React, JavaScript, TypeScript, Java, NodeJS, Data Mining and Processing
+- 🔭 Skills: Python, React, JavaScript, TypeScript, Java, NodeJS, Data Mining and Processing, Selenium
 - 📫 How to reach me: guohong770@gmail.com
 
 
